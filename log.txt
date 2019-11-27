@@ -41,3 +41,35 @@ Preview Link: https://api.spotify.com/v1/tracks/2pE0CMK1fE3mfU0eEOHhKw
 Album: The Bones of What You Believe
 ======Spotify End======
 
+======Spotify Start======
+Artist(s): Backstreet Boys
+Song Title: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+======Spotify End======
+
+======Concert Start======
+Artist(s): chvrches
+Venue: Spilt Milk
+Location: Ballarat
+ Date: 11-30-2019
+======Concert End======
+
+======Spotify Start======
+Artist(s): CHUNG HA
+Song Title: Gotta Go
+Preview Link: https://api.spotify.com/v1/tracks/0xq4ZTcmwBfkPGo4RRKmMe
+Album: Gotta Go
+======Spotify End======
+
+======Movie Start======
+Title: Good Will Hunting
+Release Year: 1997
+IMDB Rating: 8.3
+Rotten Tomatoes Rating: 97%
+Country Produced: USA
+Language: English
+Plot: Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.
+Actors: Matt Damon, Ben Affleck, Stellan Skarsgård, John Mighton
+======Movie End======
+

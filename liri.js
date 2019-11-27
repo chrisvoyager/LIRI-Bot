@@ -68,7 +68,7 @@ function concert(input) {
 function spootify(input) {
     
     if (!input) {
-        input = "The Sign"
+        input = "Gotta Go"
     };
     
     spotify.search({ type: 'track', query: input }, function (err, data) {
